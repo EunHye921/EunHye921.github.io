@@ -15,7 +15,7 @@ website: eunhye921.github.io
 darkmode: true
 
 # Social links
-# twitter_username: facespics
+twitter_username: ehleeeee
 github_username:  EunHye921
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/sunglass.jpg
+about_profile_image: images/sunglass.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Eunhye and I'm a automotive research engineer. I manage the R&D project of new automobiles and figure out solutions for the engineering issues, regarding ergonomics and usabilities.
   
